@@ -163,12 +163,16 @@ there are two multiplication operations. DSP utilization is therefore expected t
 
 ## 📸 Screenshots
 C Simulation
+<img width="1918" height="547" alt="C simlution of DSP" src="https://github.com/user-attachments/assets/330e46e6-8a07-4fe7-8808-c35f2cb3bc41" />
 
 Synthesis Report
+<img width="1918" height="1012" alt="C synthesis_1" src="https://github.com/user-attachments/assets/55385035-8c00-4319-90a4-df32b211f63f" />
 
 Hardware Interfaces
+<img width="1553" height="767" alt="C synthesis_2" src="https://github.com/user-attachments/assets/cd028662-6526-4aad-859a-7c6b7a21ed35" />
 
 Bind Operation Report
+<img width="1508" height="768" alt="C synthesis_3" src="https://github.com/user-attachments/assets/b2958def-8af0-4e74-a46d-e63f38bc641b" />
 
 ## 📚 Experiment Outcome
 
